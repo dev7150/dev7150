@@ -18,10 +18,10 @@
 
 - 🔭 I’m currently working on data analytics 
 - 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
+- 👯 I’m looking to collaborate on analytics projects
+- 🤔 I’m looking for help with development in python
 - 💬 Ask me about analytics
 - 📫 How to reach me: dev.poudel@outlook.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I dont trust people who code in lowercase SQL ;P
+- ⚡ Fun fact: I’m originally from Kathmandu, Nepal 🚩
 
