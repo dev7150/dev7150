@@ -14,6 +14,8 @@
 <a href="https://medium.com/@ndleah">
   <img align="left" alt="Dev's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
+<br/>
+<br/>
 
 
 - 🔭 I’m currently working on data analytics 
