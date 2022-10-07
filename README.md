@@ -1,6 +1,8 @@
+<p  align="center"><img src = "dev7150/Welcome.gif"></p>
+
 ### Hi there 👋
 
-# I am Dev and weelcome to github profile
+# I am Dev, and welcome to github profile
 
 
 <a href="https://www.linkedin.com/in/devashishpoudel/">
@@ -12,9 +14,6 @@
 <a href="https://medium.com/@ndleah">
   <img align="left" alt="Dev's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-
-<br />
-
 
 
 - 🔭 I’m currently working on data analytics 
