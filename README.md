@@ -1,4 +1,4 @@
-<p  align="center"><img src = "dev7150/Welcome.gif"></p>
+<p  align="center"><img src = "Welcome.gif"></p>
 
 ### Hi there 👋
 
