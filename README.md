@@ -6,10 +6,10 @@
 
 
 <a href="https://www.linkedin.com/in/devashishpoudel/">
-  <img align="left" alt="Dev's Linkedin" width="22px" src="https://img.shields.io/badge/LinkedIn-Linkedin-blue" />
+  <img align="left" alt="Dev's Linkedin" width="80px" src="https://img.shields.io/badge/LinkedIn-Linkedin-blue" />
 </a>
 <a href="https://github.com/dev7150">
-  <img align="left" alt="'Dev's Github" width="22px" src="https://img.shields.io/badge/Github-Github-blue" />
+  <img align="left" alt="'Dev's Github" width="80px" src="https://img.shields.io/badge/Github-Github-blue" />
 
 <br/>
 <br/>
