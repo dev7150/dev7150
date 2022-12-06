@@ -1,4 +1,4 @@
-<p  align="center"><img src = "Welcome.gif"></p>
+<p  align="center"><img width = "400px" src = "https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif"></p>
 
 ### Hi there 👋
 
