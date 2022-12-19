@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on data analytics<br>🌱 I’m currently learning python<br>👯 I’m looking to collaborate on analytics projects<br>🤔 I’m looking for help with Data Engineering in python<br>💬 Ask me about analytics<br>📫 How to reach me: dev.poudel@outlook.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I’m originally from Kathmandu, Nepal 🚩
+🔭 I’m currently working on data analytics<br>🌱 I’m currently learning python<br>👯 I’m looking to collaborate on analytics projects<br>🤔 I’m looking for help with Data Engineering<br>💬 Ask me about analytics<br>📫 How to reach me: dev.poudel@outlook.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I’m originally from Kathmandu, Nepal 🚩
 
 
 ## 🌐 Socials:
